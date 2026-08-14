@@ -40,7 +40,6 @@ Support type: Normal (Manual)
 | 30AWG silicone wire kit | 1 | Signal leads and dense harnessing | [Amazon](https://www.amazon.com/s?k=30awg+silicone+wire) |
 | Heat-shrink assortment | 1 | Insulate OLED, switch, and battery joints | [Amazon](https://www.amazon.com/s?k=heat+shrink+tubing+kit) |
 | Small zip ties | 1 pack | Bundling wires inside the frame | [Amazon](https://www.amazon.com/s?k=mini+zip+ties) |
-## Wiring Option A – S2 Mini / Hand-Wired Harness
 
 | Item | Qty | Notes | Source |
 | --- | --- | --- | --- |
