@@ -15,19 +15,7 @@ A 4-legged robotics project built upon the open-source [Sesame Robot](https://gi
 * **Wall Loops:** 2
 * **Infill Pattern:** Honeycomb
 
-| Component      | Supports Required | STL Link                                            |
-| -------------- | ----------------- | --------------------------------------------------- |
-| Joint R1       | No                | [R1-v117.stl](stl/R1-v117.stl)                         |
-| Joint R2       | No                | [R2-v117.stl](stl/R2-v117.stl)                         |
-| Joint R3       | No                | [R3-v117.stl](stl/R3-v117.stl)                         |
-| Joint R4       | No                | [R4-v117.stl](stl/R4-v117.stl)                         |
-| Joint L1       | No                | [L1-v117.stl](stl/L1-v117.stl)                         |
-| Joint L2       | No                | [L2-v117.stl](stl/L2-v117.stl)                         |
-| Joint L3       | No                | [L3-v117.stl](stl/L3-v117.stl)                         |
-| Joint L4       | No                | [L4-v117.stl](stl/L4-v117.stl)                         |
-| Internal Frame | No                | [Internal-Frame-v121.stl](stl/Internal-Frame-v121.stl) |
-| Bottom Cover   | No                | [Bottom-Cover-v121.stl](stl/Bottom-Cover-v121.stl)     |
-| Top Cover      | Yes               | [Top Covers](stl/top-covers/)                          |
+| Top Cover | Support Required |
 
 ### Top Cover Settings (Original Style)
 
