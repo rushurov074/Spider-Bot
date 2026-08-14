@@ -9,6 +9,30 @@ A 4-legged robotics project built upon the open-source [Sesame Robot](https://gi
 * **JSON API:** Fully controllable programmatically via Python, JavaScript, and more.
 * **Custom Animations:** Uses Sesame Studio to visually design stop-motion-style movements and automatically generate the necessary C++ code.
 
+## 3D Printing
+* **Material:** PLA / PLA+
+* **Infill:** 8-10%
+* **Wall Loops:** 2
+* **Infill Pattern:** Honeycomb
+* | Component      | Supports Required | STL Link                                            |
+| -------------- | ----------------- | --------------------------------------------------- |
+| Joint R1       | No                | [R1-v117.stl](stl/R1-v117.stl)                         |
+| Joint R2       | No                | [R2-v117.stl](stl/R2-v117.stl)                         |
+| Joint R3       | No                | [R3-v117.stl](stl/R3-v117.stl)                         |
+| Joint R4       | No                | [R4-v117.stl](stl/R4-v117.stl)                         |
+| Joint L1       | No                | [L1-v117.stl](stl/L1-v117.stl)                         |
+| Joint L2       | No                | [L2-v117.stl](stl/L2-v117.stl)                         |
+| Joint L3       | No                | [L3-v117.stl](stl/L3-v117.stl)                         |
+| Joint L4       | No                | [L4-v117.stl](stl/L4-v117.stl)                         |
+| Internal Frame | No                | [Internal-Frame-v121.stl](stl/Internal-Frame-v121.stl) |
+| Bottom Cover   | No                | [Bottom-Cover-v121.stl](stl/Bottom-Cover-v121.stl)     |
+| Top Cover      | Yes               | [Top Covers](stl/top-covers/)                          |
+
+### Top Cover Settings (Original Style)
+
+Brim: Outer brim only
+Support type: Normal (Manual)
+
 ## Hardware & Build
 * **Microcontroller:** ESP32 (DevKitC or S2 Mini).
 * **Actuators:** MG90S metal-gear servos.
