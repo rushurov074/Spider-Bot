@@ -14,7 +14,8 @@ A 4-legged robotics project built upon the open-source [Sesame Robot](https://gi
 * **Infill:** 8-10%
 * **Wall Loops:** 2
 * **Infill Pattern:** Honeycomb
-* | Component      | Supports Required | STL Link                                            |
+
+| Component      | Supports Required | STL Link                                            |
 | -------------- | ----------------- | --------------------------------------------------- |
 | Joint R1       | No                | [R1-v117.stl](stl/R1-v117.stl)                         |
 | Joint R2       | No                | [R2-v117.stl](stl/R2-v117.stl)                         |
